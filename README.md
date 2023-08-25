@@ -3,7 +3,7 @@
 ***
 <br>
 
-- 🔭 I’m currently working on building an ML model from scratch
-- 🌱 I’m currently learning web application basics
+- 🔭 I’m currently working on a recipe suggester web application
+- 🌱 I’m currently developing my proficiency in SQL, JavaScript and data visualisation with Python!
 - 📫 How to reach me: zasfarrow@gmail.com
 - ⚡ Fun fact: facts are fun!
