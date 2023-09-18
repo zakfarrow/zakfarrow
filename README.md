@@ -3,7 +3,7 @@
 ***
 <br>
 
-- 🔭 I’m currently working on a recipe suggester web application called 'what meal'!
-- 🌱 I’m currently developing my proficiency in SQL, JavaScript and data visualisation with Python!
+- 🔭 I’m currently working on a portfolio website using React!
+- 🌱 I’m currently developing my proficiency in JavaScript and Figma!
 - 📫 How to reach me: zasfarrow@gmail.com
 - ⚡ Fun fact: facts are fun!
