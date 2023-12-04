@@ -3,7 +3,7 @@
 ***
 <br>
 
-- 🔭 I’m currently working on a portfolio website using React!
-- 🌱 I’m currently developing my proficiency in JavaScript and Figma!
+- 🔭 I work at Aircharge as a junior web developer!
+- 🌱 I’m currently partaking in Advent of Code 2023!
 - 📫 How to reach me: zasfarrow@gmail.com
-- ⚡ Fun fact: facts are fun!
+- ⚡ Fun fact: the biggest animal to _ever_ exist, is the blue whale!
